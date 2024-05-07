@@ -1,0 +1,69 @@
+p
+{
+    font-weight: bold;
+    color:black;
+    font-family:'Times New Roman';
+    margin-left:20px;
+    margin-right:20px;
+    text-align:justify;
+}
+body
+{
+  
+    background-image: url(d.jpg);
+}
+div
+{
+    font-weight:bold;
+    text-align:center;
+    margin-bottom:5px ;
+    color:black;
+}
+img
+{
+    height:100px;
+    width:200px;
+}
+
+h1
+{
+    font-weight: bold;
+    color:black;
+    font-family:'Times New Roman';
+    margin-left:20px;
+    margin-right:20px;
+    text-align:center;
+    
+}
+h2
+{
+    font-weight: bold;
+    color:black;
+    font-family:'Times New Roman';
+    margin-left:20px;
+    margin-right:20px;
+    text-align:center;
+    text-decoration-line: underline;
+}
+h4
+{
+   background-color: white;
+    font-weight: bold;
+    color:black;
+    font-family:'Times New Roman';
+    margin-left:470px;
+    margin-right:20px;
+    text-align:center;
+    width:300px;
+}
+.quote
+{
+    background-color:white;
+    font-weight: bold;
+    color:black;
+    font-family:'Times New Roman';
+    margin-left:470px;
+    margin-right:20px;
+    width:300px;
+    text-align:center;
+}
